@@ -1,0 +1,4 @@
+#Fri Aug 09 12:08:52 PDT 2019
+base.0=C\:\\Users\\rxn\\Documents\\Projects\\Bat\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
